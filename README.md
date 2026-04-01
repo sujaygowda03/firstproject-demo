@@ -1,3 +1,3 @@
-# firstproject-demo
-This is my first project
-Author- Sujay
+# My portfolio
+This is my portfolio
+Author-Sujay
